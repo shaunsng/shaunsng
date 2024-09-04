@@ -9,7 +9,7 @@ I am a mid-careerist exploring a transition into hands-on tech related work. My 
 |-----------------------------------------------|----------------------------|
 | Scripting, Linux Filesystem                   | <a href="https://google.com">Info Extractor</a>|
 | Log analysis                                  | <a href="https://google.com">Log Analyser</a>|
-| Network scanning                              | <a href="https://google.com">Network Research</a>|
+| Network scanning                              | <a href="https://github.com/shaunsng/proj-network/tree/main">Network Research</a>|
 | Penetration Testing                           | <a href="https://github.com/shaunsng/proj-vulners/tree/main">Vulners</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">SOC</a>|
 
