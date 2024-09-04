@@ -1,7 +1,7 @@
 ## Hello, I'm Shaun 👋
 <a href="https://linkedin.com/shaun-sng"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a mid-careerist exploring a transition into hands-on tech related work, in particular on cybersecurity skills and projects outlined below.
+I am a mid-careerist exploring a transition into hands-on tech related work. My recent focus in learning key cybersecurity skills are outlined below.
 
 ## Skills
 
