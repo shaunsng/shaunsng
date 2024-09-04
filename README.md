@@ -7,7 +7,7 @@ I am a mid-careerist exploring a transition into hands-on tech related work. My 
 
 | Skills/Domain                                 | Project                    |
 |-----------------------------------------------|----------------------------|
-| Scripting, Linux Filesystem                   | <a href="https://google.com">Info Extractor</a>|
+| Scripting, Linux Filesystem                   | <a href="https://github.com/shaunsng/proj-info/tree/main">Info Extractor</a>|
 | Log analysis                                  | <a href="https://github.com/shaunsng/proj-logs/tree/main">Log Analyser</a>|
 | Network scanning                              | <a href="https://github.com/shaunsng/proj-network/tree/main">Network Research</a>|
 | Penetration Testing                           | <a href="https://github.com/shaunsng/proj-vulners/tree/main">Vulners</a>|
