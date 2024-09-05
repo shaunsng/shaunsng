@@ -1,22 +1,27 @@
 ## Hello, I'm Shaun 👋
 <a href="https://linkedin.com/shaun-sng"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a mid-careerist exploring a transition into hands-on tech related work. My recent focus in learning key cybersecurity skills are outlined below.
+I have worked mostly as a government policy planner-analyst-coordinator in a non-technical role, albeit recently within the technology and cybersecurity space.   
+This has encouraged me to push my childhood interest and dabbling with computers to the next level and build tangible, industry relevant technical skills.
 
-## Skills
+I am thus currently a mid-life learner and have been pursuing various courses and training from data analysis to coding and cybersecurity. 
+This profile is a work-in-progress to chart my ongoing development journey and highlight key skills gained. 
+
+Cheers!
+
+## Cybersecurity Mini-Projects
+This section summarises skills and cybersecurity mini-projects undertaken in my most recent vocational training.  
 
 | Skills/Domain                                 | Project                    |
 |-----------------------------------------------|----------------------------|
 | Scripting, Linux Filesystem                   | <a href="https://github.com/shaunsng/proj-info/tree/main">Info Extractor</a>|
 | Log analysis                                  | <a href="https://github.com/shaunsng/proj-logs/tree/main">Log Analyser</a>|
-| Network scanning                              | <a href="https://github.com/shaunsng/proj-network/tree/main">Network Research</a>|
+| Network scanning                              | <a href="https://github.com/shaunsng/proj-network/tree/main">Network Research</a> <a href="https://github.com/shaunsng/proj-vulners/tree/main">Vulners</a> |
 | Penetration Testing                           | <a href="https://github.com/shaunsng/proj-vulners/tree/main">Vulners</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">SOC</a>|
 
 ## Other Interests
-While my professional experience has been in non-technical areas - government strategy and policy, I have been "casual techie" and dabbler of technology since a young age - and think fondly of playing games on MS-DOS and simple building of PCs in the 2000s. I have broad intesest and enjoy learning new skills and knowledge in history, art, anime and Japanese culture. 
-
-This portfolio is a work-in-progress. Thank you. 
+My other interests food, anime Japanese culture and learning new skills and knowledge in general. 
 
 <!--
 
