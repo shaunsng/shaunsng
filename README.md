@@ -14,13 +14,12 @@ This section summarises skills and cybersecurity mini-projects undertaken in my 
 |-----------------------------------------------|----------------------------|
 | Scripting, Linux Filesystem                   | <a href="https://github.com/shaunsng/proj-info/tree/main">Info Extractor</a>|
 | Log analysis                                  | <a href="https://github.com/shaunsng/proj-logs/tree/main">Log Analyser</a>|
-| Network scanning                              | <a href="https://github.com/shaunsng/proj-network/tree/main">Network Research</a> 
-<a href="https://github.com/shaunsng/proj-vulners/tree/main">Vulners</a> |
+| Network scanning, Penetration Testing | <a href="https://github.com/shaunsng/proj-network/tree/main">Network Research</a> ; <a href="https://github.com/shaunsng/proj-vulners/tree/main">Vulners</a> |
 | Penetration Testing                           | <a href="https://github.com/shaunsng/proj-vulners/tree/main">Vulners</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">SOC</a>|
 
 ## Other Interests
-My other interests food, anime Japanese culture and learning new skills and knowledge in general. 
+My other interests include food and cooking, anime, Japanese culture. I also enjoy learning new skills, knowledge and crafts. 
 
 <!--
 
