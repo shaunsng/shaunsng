@@ -10,13 +10,11 @@ Cheers!
 ## Cybersecurity Mini-Projects
 This section summarises skills and cybersecurity mini-projects undertaken in my most recent vocational training.  
 
-| Skills/Domain                                 | Project                    |
+| Skills/Domain                                 | Projects                    |
 |-----------------------------------------------|----------------------------|
-| Scripting, Linux Filesystem                   | <a href="https://github.com/shaunsng/proj-info/tree/main">Info Extractor</a>|
-| Log analysis                                  | <a href="https://github.com/shaunsng/proj-logs/tree/main">Log Analyser</a>|
+| Scripting, Linux Filesystem and Log Analysis  | <a href="https://github.com/shaunsng/proj-info/tree/main">Info Extractor</a> ; <a href="https://github.com/shaunsng/proj-logs/tree/main">Log Analyser</a> |
 | Network scanning, Penetration Testing | <a href="https://github.com/shaunsng/proj-network/tree/main">Network Research</a> ; <a href="https://github.com/shaunsng/proj-vulners/tree/main">Vulners</a> |
-| Penetration Testing                           | <a href="https://github.com/shaunsng/proj-vulners/tree/main">Vulners</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">SOC</a>|
+| SIEM Implementation           | Shadow Sentry Mini-SOC [ongoing]|
 
 ## Other Interests
 My other interests include food and cooking, anime, Japanese culture. I also enjoy learning new skills, knowledge and crafts. 
