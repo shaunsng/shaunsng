@@ -1,11 +1,9 @@
 ## Hello, I'm Shaun 👋
 <a href="https://linkedin.com/shaun-sng"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I have worked mostly as a government policy planner-analyst-coordinator in a non-technical role, albeit recently within the technology and cybersecurity space.   
-This has encouraged me to push my childhood interest and dabbling with computers to the next level and build tangible, industry relevant technical skills.
+I have worked mostly as a government policy planner-analyst-coordinator in a non-technical role, albeit recently within the technology and cybersecurity space. This has encouraged me to push my childhood interest and dabbling with computers to the next level and build tangible, industry relevant technical skills.
 
-I am thus currently a mid-life learner and have been pursuing various courses and training from data analysis to coding and cybersecurity. 
-This profile is a work-in-progress to chart my ongoing development journey and highlight key skills gained. 
+I am thus currently a mid-life learner and have been pursuing various courses and training from data analysis to coding and cybersecurity. This profile is a work-in-progress to chart my ongoing development journey and highlight key skills gained. 
 
 Cheers!
 
@@ -16,7 +14,8 @@ This section summarises skills and cybersecurity mini-projects undertaken in my 
 |-----------------------------------------------|----------------------------|
 | Scripting, Linux Filesystem                   | <a href="https://github.com/shaunsng/proj-info/tree/main">Info Extractor</a>|
 | Log analysis                                  | <a href="https://github.com/shaunsng/proj-logs/tree/main">Log Analyser</a>|
-| Network scanning                              | <a href="https://github.com/shaunsng/proj-network/tree/main">Network Research</a> <a href="https://github.com/shaunsng/proj-vulners/tree/main">Vulners</a> |
+| Network scanning                              | <a href="https://github.com/shaunsng/proj-network/tree/main">Network Research</a> 
+<a href="https://github.com/shaunsng/proj-vulners/tree/main">Vulners</a> |
 | Penetration Testing                           | <a href="https://github.com/shaunsng/proj-vulners/tree/main">Vulners</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">SOC</a>|
 
